@@ -58,7 +58,7 @@ Pint==0.10.1
 plac==0.9.6
 preshed==2.0.1
 prettytable==0.7.2
-protobuf==3.0.0
+protobuf==3.18.3
 psycopg2==2.8.4
 py-trello==0.15.0
 pycairo==1.16.2
